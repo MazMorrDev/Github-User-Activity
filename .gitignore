@@ -1,0 +1,6 @@
+# Debug folders
+bin/*
+obj/*
+
+# IDE config
+.vscode/*
